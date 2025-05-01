@@ -3,7 +3,8 @@
 A modern, responsive authentication system featuring login and registration pages with a clean, user-friendly design.
 
 ![Authentication System Preview](placeholder-image.jpg)
-
+![Authentication System Preview](placeholder-image.jpg)
+![Authentication System Preview](placeholder-image.jpg)
 ## Features
 
 ### General Features
